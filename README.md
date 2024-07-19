@@ -11,13 +11,13 @@ Pairs Trading Strategy: A comprehensive strategy for pairs trading, featuring an
 
 Skills & Interests
 
-Programming: Python (Pandas, NumPy, SciPy, Matplotlib), SQL
+Programming: Python (Pandas, NumPy, SciPy, Matplotlib), SQL.
 
-Tools: Bloomberg Terminal, Excel
+Tools: Bloomberg Terminal, Excel.
 
-Certifications: FINRA Securities Industry Essentials (SIE)
+Certifications: FINRA Securities Industry Essentials (SIE).
 
-Interests: Chess, golfing, surfing, professional hockey, and NCAA D2 football
+Interests: Chess, golfing, surfing, professional hockey, and NCAA D2 football.
 
 Contact
 Feel free to connect with me through LinkedIn or email. I’m always open to discussing finance, and data analytics.
