@@ -1,4 +1,4 @@
-Hello, I'm Michael Wojciechowski, a finance and data analytics student with a passion for markets and an interest in quantitative/systematic trading strategies. 
+Hi there, I'm Michael Wojciechowski, a finance and data analytics student with a passion for markets and an interest in quantitative/systematic trading strategies. 
 I currently am pursuing an MBA with a concentration in Data Analytics from the University of Indianapolis, and hold a BBA in Finance and Economics from Stetson University. 
 My journey has led me through roles at BNY Mellon, Pershing X Product Management Team, and as a Growth Portfolio Manager at Roland George Investments Program.
 
