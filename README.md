@@ -2,10 +2,12 @@ Hi there, I'm Michael Wojciechowski, a finance and data analytics student with a
 I currently am pursuing an MBA with a concentration in Data Analytics from the University of Indianapolis, and hold a BBA in Finance and Economics from Stetson University. 
 
 
-My Projects
+
+##My Projects
 
 Jump-Diffusion Options Pricing Model: A Python-based project to model option pricing using geometric brownian motion to model random stock price movements. 
 Pairs Trading Strategy: A comprehensive strategy for pairs trading, featuring an interactive GUI for testing cointegration and visualizing trading signals.
+
 
 
 Skills & Interests
