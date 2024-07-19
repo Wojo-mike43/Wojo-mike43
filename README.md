@@ -20,4 +20,4 @@ Certifications: FINRA Securities Industry Essentials (SIE)
 Interests: Chess, golfing, surfing, professional hockey, and NCAA D2 football
 
 Contact
-Feel free to connect with me through LinkedIn or email. I’m always open to discussing finance, data analytics, or any 
+Feel free to connect with me through LinkedIn or email. I’m always open to discussing finance, and data analytics.
