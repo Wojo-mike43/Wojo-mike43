@@ -1,4 +1,4 @@
-Hi there, I'm Michael Wojciechowski, a finance and data analytics student with a passion for markets and an interest in quantitative/systematic trading strategies. 
+Hello, I'm Michael Wojciechowski, a finance and data analytics student with a passion for markets and an interest in quantitative/systematic trading strategies. 
 I currently am pursuing an MBA with a concentration in Data Analytics from the University of Indianapolis, and hold a BBA in Finance and Economics from Stetson University. 
 
 
@@ -22,3 +22,6 @@ Interests: Chess, golfing, surfing, professional hockey, and NCAA D2 football.
 
 Contact
 Feel free to connect with me through LinkedIn or email. I’m always open to discussing finance, and data analytics.
+Email: wojomike43@gmail.com
+Linkedin: https://www.linkedin.com/in/michaelwojciechowski93
+
