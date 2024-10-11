@@ -22,6 +22,7 @@ Interests: Chess, golfing, surfing, professional hockey, and NCAA D2 football.
 
 Contact
 Feel free to connect with me through LinkedIn or email. I’m always open to discussing finance, and data analytics.
-Email: wojomike43@gmail.com
-Linkedin: https://www.linkedin.com/in/michaelwojciechowski93
+
+Email: [wojomike43@gmail.com]
+Linkedin: [https://www.linkedin.com/in/michaelwojciechowski93]
 
