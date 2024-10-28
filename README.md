@@ -11,18 +11,13 @@ I currently am pursuing an MBA with a concentration in Data Analytics from the U
 
 
 **Skills & Interests**
+- Programming: Python (`Pandas`, `NumPy`, `SciPy`,` Scikit-Learn` , `Matplotlib`), SQL.
+- Tools: Bloomberg Terminal, Excel.
+- Certifications: FINRA Securities Industry Essentials (SIE).
+- Interests: Chess, golfing, surfing, professional hockey, and NCAA D2 football.
 
-Programming: Python (`Pandas`, `NumPy`, `SciPy`,` Scikit-Learn` , `Matplotlib`), SQL.
-
-Tools: Bloomberg Terminal, Excel.
-
-Certifications: FINRA Securities Industry Essentials (SIE).
-
-Interests: Chess, golfing, surfing, professional hockey, and NCAA D2 football.
-
-Contact:
+**Contact:**
 Feel free to connect with me through LinkedIn or email. I’m always open to discussing financial markets.
-
-Email: [wojomike43@gmail.com]
-Linkedin: [https://www.linkedin.com/in/michaelwojciechowski93]
+- Email: [wojomike43@gmail.com]
+- Linkedin: [https://www.linkedin.com/in/michaelwojciechowski93]
 
