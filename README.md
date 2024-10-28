@@ -17,7 +17,7 @@ I currently am pursuing an MBA with a concentration in Data Analytics from the U
 - Interests: Chess, golfing, surfing, professional hockey, and NCAA D2 football.
 
 **Contact:**
-Feel free to connect with me through LinkedIn or email. I’m always open to discussing financial markets.
+Feel free to connect with me through LinkedIn or email.
 - Email: [wojomike43@gmail.com]
 - Linkedin: [https://www.linkedin.com/in/michaelwojciechowski93]
 
