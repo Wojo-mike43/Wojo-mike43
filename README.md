@@ -11,7 +11,7 @@ I currently am pursuing an MBA with a concentration in Data Analytics from the U
 
 
 **Skills & Interests**
-- Programming: Python (`Pandas`, `NumPy`, `SciPy`,` Scikit-Learn` , `Matplotlib`), SQL.
+- Programming: Python (`Pandas`, `NumPy`, `SciPy`, `Scikit-Learn` , `Matplotlib`), SQL.
 - Tools: Bloomberg Terminal, Excel.
 - Certifications: FINRA Securities Industry Essentials (SIE).
 - Interests: Chess, golfing, surfing, professional hockey, and NCAA D2 football.
