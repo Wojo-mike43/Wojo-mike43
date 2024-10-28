@@ -3,12 +3,14 @@ I currently am pursuing an MBA with a concentration in Data Analytics from the U
 
 
 **My Projects**
+
+Crude Oil Implied Forward Rate Script: A small project which visually plots an implied forward rate cruve using futures data from `yfinance`.
 YTM Calculator: A simple script which calculates a bond's YTM by utilizing a binary search algorithm.
 Jump-Diffusion Options Pricing Model: A Python-based project to model option pricing using geometric brownian motion to model random stock price movements. 
 Pairs Trading Strategy: A comprehensive strategy for pairs trading, featuring an interactive GUI for testing cointegration and visualizing trading signals.
 
 
-Skills & Interests
+**Skills & Interests**
 
 Programming: Python (`Pandas`, `NumPy`, `SciPy`,` Scikit-Learn` , `Matplotlib`), SQL.
 
