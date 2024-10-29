@@ -8,7 +8,7 @@ I currently am pursuing an MBA with a concentration in Data Analytics from the U
 - YTM Calculator: A simple script which calculates a bond's YTM by utilizing a binary search algorithm.
 - Jump-Diffusion Options Pricing Model: A Python-based project to model option pricing using geometric brownian motion to model random stock price movements. 
 - Pairs Trading Strategy: A comprehensive strategy for pairs trading, featuring an interactive GUI for testing cointegration and visualizing trading signals.
-- Black-Scholes calculator: A simple script that uses numpy and scipy to calculate the value of a European call or put option.
+- Black-Scholes Calculator: A simple script that uses numpy and scipy to calculate the value of a European call or put option.
 
 
 **Skills & Interests**
