@@ -11,7 +11,7 @@ I currently am pursuing an MBA with a concentration in Data Analytics from the U
 - **Black-Scholes Calculator:** A simple script that uses `numpy` and `scipy` to calculate the value of a European call or put option.
 - **Leveraged Account Analysis:** Models returns on both a regular and leveraged investment account, and takes into consideration factors such as interest on margin loans, margin maintinance requirements, and potential margin calls.
 - **Multi-Dimenstional Lognormal Random Walk:** A simulation that models the evolution of a multi-asset portfolio over time. In this simulation, each asset's price path is influenced by historical returns, volatility, and covariances among the assets in the portfolio.
-
+- **Lalo Model**: A Random Forest Classification model created for my friend Lalo to identify the most important factors that predict interest rate cuts, and to use these features to forecast rate cuts.
 
 **Skills & Interests**
 - Programming: Python (`Pandas`, `NumPy`, `SciPy`, `Scikit-Learn`, `yfinance`, `Matplotlib`), SQL.
