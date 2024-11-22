@@ -12,6 +12,7 @@ I currently am pursuing an MBA with a concentration in Data Analytics from the U
 - **Leveraged Account Analysis:** Models returns on both a regular and leveraged investment account, and takes into consideration factors such as interest on margin loans, margin maintinance requirements, and potential margin calls.
 - **Multi-Dimenstional Lognormal Random Walk:** A simulation that models the evolution of a multi-asset portfolio over time. In this simulation, each asset's price path is influenced by historical returns, volatility, and covariances among the assets in the portfolio.
 - **Lalo Model**: A Random Forest Classification model created for my friend Lalo to identify the most important factors that predict interest rate cuts, and to use these features to forecast rate cuts.
+- **Binomial Options Pricing Model**: An options pricing model that uses a custom binary tree data structure to calculate the fair value of European-style call or put options through reverse induction.
 
 **Skills & Interests**
 - Programming: Python (`Pandas`, `NumPy`, `SciPy`, `Scikit-Learn`, `yfinance`, `Matplotlib`), SQL.
